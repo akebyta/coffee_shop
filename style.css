@@ -1,3 +1,23 @@
 header{
-    background-color: darkkhaki;
+    background-color: rgb(206, 188, 163);
+}
+.projetos {
+    background-image:linear-gradient(#cdb780, #d4cfb4);
+    color:rgba(215, 190, 161, 0.735);
+    font-size: 21px;
+    display:flex;
+    justify-content: center;
+    padding: 24px;
+
+}
+
+.projetos-título {
+    padding: 30px;
+       
+}
+
+.projeto-imagem-alunos {
+    width:20%;
+    height:20%;
+    border-radius: 50px;
 }
