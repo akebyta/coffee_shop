@@ -1,9 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
 header{
-    background-color: rgb(206, 188, 163);
+    background-color: rgba(182, 138, 78, 0.856);
 }
 .projetos {
-    background-image:linear-gradient(#cdb780, #d4cfb4);
-    color:rgba(215, 190, 161, 0.735);
+    background-image:linear-gradient(#dab974e1, #cfa557e3);
+    color:rgba(218, 152, 77, 0.774);
     font-size: 21px;
     display:flex;
     justify-content: center;
