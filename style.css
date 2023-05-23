@@ -1,15 +1,9 @@
-* {
-    margin: 0;
-    padding: 0;
-
-}
-
 header{
-    background-color: rgba(182, 138, 78, 0.856);
+    background-color: rgb(206, 188, 163);
 }
 .projetos {
-    background-image:linear-gradient(#dab974e1, #cfa557e3);
-    color:rgba(218, 152, 77, 0.774);
+    background-image:linear-gradient(#cdb780, #d4cfb4);
+    color:rgba(215, 190, 161, 0.735);
     font-size: 21px;
     display:flex;
     justify-content: center;
@@ -26,4 +20,14 @@ header{
     width:20%;
     height:20%;
     border-radius: 50px;
+}
+.rodape{
+    background-color: rgb(95, 72, 29);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60ssspx;
+    padding: 12px 0;
+   
 }
