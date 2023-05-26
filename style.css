@@ -7,7 +7,7 @@ header{
     font-size: 21px;
     display:flex;
     justify-content: center;
-    padding: 24px;
+    padding: 140px;
 
 }
 
@@ -28,6 +28,6 @@ header{
 
 .rodape-imagem{
     height: 60ssspx;
-    padding: 12px 0;
+    padding: 15px 0;
    
 }
